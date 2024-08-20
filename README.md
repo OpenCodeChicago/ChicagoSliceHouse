@@ -21,6 +21,14 @@ Welcome to the **Chicago Slice House** repository, part of the **Open Code Chica
 
 ---
 
+## Table of Contents
+
+- [How to Contribute](#how-to-contribute)
+- [Features](#features)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [Issues](#issues)
+
 ## How to Contribute
 
 We welcome and encourage contributions from the community! Whether you’re a designer, developer, or someone interested in learning, here's how you can get involved:
@@ -29,8 +37,17 @@ We welcome and encourage contributions from the community! Whether you’re a de
 2. **Clone the Repository**: Clone the forked repository to your local machine.
    ```bash
    git clone https://github.com/your-username/chicago-slice-house.git
-````
-
+   ```
+3. **Create a Branch**: Create a new branch for your contributions.
+   ```bash
+   git checkout -b your-branch-name
+   ```
+4. **Collaborate and Contribute**: Make your changes, add features, or improve the documentation. Feel free to share your ideas and collaborate with others.
+5. **Push Your Changes**: After making your changes, push the branch to your GitHub repository.
+   ```bash
+   git push origin your-branch-name
+   ```
+6. **Create a Pull Request**: Once you're happy with your changes, create a pull request to have your changes reviewed and merged into the main repository.
 
 
 
