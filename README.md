@@ -14,10 +14,23 @@ Welcome to the **Chicago Slice House** repository, part of the **Open Code Chica
 
 > This **project** is a **collaborative** **design** and **development** initiative centered around a pizzeria website called **"Chicago Slice House."** The design has been created using **Figma**, and we encourage **contributions** from **anyone** **interested** in **web design**, **development**, or simply looking to **learn** and **grow** within the **tech community**.
 
-#### 🔗 [Figma Design Link](https://www.figma.com/design/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
-#### 🔗 [Figma Prototype Link](https://www.figma.com/proto/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
-#### 🔗 [Behance Project Link](https://www.behance.net/gallery/205932901/Chicago-Slice-House)
-#### 🔗 [Dribble Design Link](https://dribbble.com/shots/24714469-Chicago-Slice-House?utm_source=Clipboard_Shot&utm_campaign=Alexandrbig1&utm_content=Chicago%20Slice%20House&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Alexandrbig1&utm_content=Chicago%20Slice%20House&utm_medium=Social_Share)
+## Project Resources
+
+### 🔗 [Figma Design Link](https://www.figma.com/design/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
+Explore the complete design for the Chicago Slice House project on Figma.
+
+### 🔗 [Figma Prototype Link](https://www.figma.com/proto/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
+Interact with the Figma prototype to experience the flow and functionality of the Chicago Slice House design.
+
+### 🔗 [Behance Project Link](https://www.behance.net/gallery/205932901/Chicago-Slice-House)
+Check out the project presentation and portfolio on Behance.
+
+### 🔗 [Dribble Design Link](https://dribbble.com/shots/24714469-Chicago-Slice-House?utm_source=Clipboard_Shot&utm_campaign=Alexandrbig1&utm_content=Chicago%20Slice%20House&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Alexandrbig1&utm_content=Chicago%20Slice%20House&utm_medium=Social_Share)
+View the design highlights and key visuals for the Chicago Slice House on Dribbble.
+
+## Project Preview
+
+![Chicago Slice House Design](path-to-your-image-file)
 
 ---
 
