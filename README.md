@@ -49,5 +49,6 @@ We welcome and encourage contributions from the community! Whether you’re a de
    ```
 6. **Create a Pull Request**: Once you're happy with your changes, create a pull request to have your changes reviewed and merged into the main repository.
 
+## Upcoming Event - August 24th
 
-
+On Saturday, `24th of August`, during our next **Open Code Chicago event**, we will work through this project together. It’s a great opportunity to get hands-on experience, collaborate with others, and learn best practices in web development.
