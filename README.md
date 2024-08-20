@@ -16,8 +16,12 @@ Welcome to the **Chicago Slice House** repository, part of the **Open Code Chica
 
 ## Project Resources
 
+### Main Project Resource
+
 #### 🔗 [Figma Design Link](https://www.figma.com/design/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
 Explore the complete design for the Chicago Slice House project on Figma.
+
+### Design Resources
 
 #### 🔗 [Figma Prototype Link](https://www.figma.com/proto/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
 Interact with the Figma prototype to experience the flow and functionality of the Chicago Slice House design.
