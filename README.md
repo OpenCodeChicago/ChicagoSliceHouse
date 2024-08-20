@@ -124,3 +124,21 @@ For any questions, suggestions, or further discussion, feel free to reach out to
 - **Discord**: Join our community on [Open Code Chicago Discord Server](https://discord.gg/t6MGsCqdFX)
 - **Email**: Reach out via email at [Gmail](mailto:alexsmagin1@gmail.com)
 
+<div align="center">
+<a href="https://linkedin.com/in/alex-smagin29" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://discord.gg/t6MGsCqdFX" target="_blank">
+<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/22484161/alex-smagin" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://dribbble.com/Alexandrbig1" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/a1126" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>
+</div>
+
