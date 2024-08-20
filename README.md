@@ -42,7 +42,7 @@ View the design highlights and key visuals for the Chicago Slice House on Dribbb
 ## Table of Contents
 
 - [How to Contribute](#how-to-contribute)
-- [Upcoming Event](#upcoming-event-august-24th)
+- [Upcoming Event](#upcoming-event---august-24th)
 - [Issues](#issues)
 - [License](#license)
 - [Feedback](#feedback)
