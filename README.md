@@ -2,11 +2,17 @@
 
 Welcome to the **Chicago Slice House** repository, part of the **Open Code Chicago** community!
 
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/OpenCodeChicago/ChicagoSliceHouse)](https://github.com/OpenCodeChicago/ChicagoSliceHouse/commits/main)
+[![GitHub license](https://img.shields.io/github/license/OpenCodeChicago/ChicagoSliceHouse)](https://github.com/OpenCodeChicago/ChicagoSliceHouse/blob/main/LICENSE)
+[![Figma](https://img.shields.io/badge/Figma-2022.2-FF7262.svg)](https://www.figma.com/)
+
 ---
 
 ## About the Project
 
-This project is a collaborative design and development initiative centered around a pizzeria website called "Chicago Slice House." The design has been created using Figma, and we encourage contributions from anyone interested in web design, development, or simply looking to learn and grow within the tech community.
+> This **project** is a **collaborative** **design** and **development** initiative centered around a pizzeria website called **"Chicago Slice House."** The design has been created using **Figma**, and we encourage **contributions** from **anyone** **interested** in **web design**, **development**, or simply looking to **learn** and **grow** within the **tech community**.
 
 ### 🔗 [Figma Design Link](https://www.figma.com/design/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
 ### 🔗 [Figma Prototype Link](https://www.figma.com/proto/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
