@@ -16,16 +16,16 @@ Welcome to the **Chicago Slice House** repository, part of the **Open Code Chica
 
 ## Project Resources
 
-### 🔗 [Figma Design Link](https://www.figma.com/design/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
+#### 🔗 [Figma Design Link](https://www.figma.com/design/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
 Explore the complete design for the Chicago Slice House project on Figma.
 
-### 🔗 [Figma Prototype Link](https://www.figma.com/proto/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
+#### 🔗 [Figma Prototype Link](https://www.figma.com/proto/SR1wLm4SSpoZUJ719ljxqr/Chicago-Slice-House?node-id=1-1178&t=rKXTzkWfAOSt4ZY5-1)
 Interact with the Figma prototype to experience the flow and functionality of the Chicago Slice House design.
 
-### 🔗 [Behance Project Link](https://www.behance.net/gallery/205932901/Chicago-Slice-House)
+#### 🔗 [Behance Project Link](https://www.behance.net/gallery/205932901/Chicago-Slice-House)
 Check out the project presentation and portfolio on Behance.
 
-### 🔗 [Dribble Design Link](https://dribbble.com/shots/24714469-Chicago-Slice-House?utm_source=Clipboard_Shot&utm_campaign=Alexandrbig1&utm_content=Chicago%20Slice%20House&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Alexandrbig1&utm_content=Chicago%20Slice%20House&utm_medium=Social_Share)
+#### 🔗 [Dribble Design Link](https://dribbble.com/shots/24714469-Chicago-Slice-House?utm_source=Clipboard_Shot&utm_campaign=Alexandrbig1&utm_content=Chicago%20Slice%20House&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Alexandrbig1&utm_content=Chicago%20Slice%20House&utm_medium=Social_Share)
 View the design highlights and key visuals for the Chicago Slice House on Dribbble.
 
 ## Project Preview
@@ -37,10 +37,12 @@ View the design highlights and key visuals for the Chicago Slice House on Dribbb
 ## Table of Contents
 
 - [How to Contribute](#how-to-contribute)
-- [Features](#features)
-- [Installation](#installation)
-- [Contributing](#contributing)
+- [Upcoming Event](#upcoming-event-august-24th)
 - [Issues](#issues)
+- [License](#license)
+- [Feedback](#feedback)
+- [Languages and Tools](#languages-and-tools)
+- [Contact](#contact)
 
 ---
 
@@ -97,7 +99,7 @@ We’re always looking to improve! If you have any suggestions, ideas, or enhanc
 
 ---
 
-## Languages and Tools:
+## Languages and Tools
 
 <div align="center">
 
