@@ -1,8 +1,8 @@
 # 🍕 Chicago Slice House - Figma Design Project
 
-Welcome to the **Chicago Slice House** repository, part of the **Open Code Chicago** community!
-
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
+Welcome to the **Chicago Slice House** repository, part of the **Open Code Chicago** community!
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/OpenCodeChicago/ChicagoSliceHouse)](https://github.com/OpenCodeChicago/ChicagoSliceHouse/commits/main)
 [![GitHub license](https://img.shields.io/github/license/OpenCodeChicago/ChicagoSliceHouse)](https://github.com/OpenCodeChicago/ChicagoSliceHouse/blob/main/LICENSE)
