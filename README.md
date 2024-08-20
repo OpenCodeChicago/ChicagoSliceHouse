@@ -14,6 +14,19 @@ Welcome to the **Chicago Slice House** repository, part of the **Open Code Chica
 
 > This **project** is a **collaborative** **design** and **development** initiative centered around a pizzeria website called **"Chicago Slice House."** The design has been created using **Figma**, and we encourage **contributions** from **anyone** **interested** in **web design**, **development**, or simply looking to **learn** and **grow** within the **tech community**.
 
+---
+
+## Table of Contents
+
+- [Project Resources](#project-resources)
+- [How to Contribute](#how-to-contribute)
+- [Upcoming Event](#upcoming-event---august-24th)
+- [Issues](#issues)
+- [License](#license)
+- [Feedback](#feedback)
+- [Languages and Tools](#languages-and-tools)
+- [Contact](#contact)
+
 ## Project Resources
 
 ### Main Project Resource
@@ -36,18 +49,6 @@ View the design highlights and key visuals for the Chicago Slice House on Dribbb
 
 ![Chicago Slice House Design](images/pp1.png)
 ![Chicago Slice House Design](images/pp5.png)
-
----
-
-## Table of Contents
-
-- [How to Contribute](#how-to-contribute)
-- [Upcoming Event](#upcoming-event---august-24th)
-- [Issues](#issues)
-- [License](#license)
-- [Feedback](#feedback)
-- [Languages and Tools](#languages-and-tools)
-- [Contact](#contact)
 
 ---
 
