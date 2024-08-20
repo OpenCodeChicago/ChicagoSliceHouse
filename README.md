@@ -29,6 +29,8 @@ Welcome to the **Chicago Slice House** repository, part of the **Open Code Chica
 - [Contributing](#contributing)
 - [Issues](#issues)
 
+---
+
 ## How to Contribute
 
 We welcome and encourage contributions from the community! Whether you’re a designer, developer, or someone interested in learning, here's how you can get involved:
@@ -49,6 +51,43 @@ We welcome and encourage contributions from the community! Whether you’re a de
    ```
 6. **Create a Pull Request**: Once you're happy with your changes, create a pull request to have your changes reviewed and merged into the main repository.
 
+---
+
 ## Upcoming Event - August 24th
 
 On Saturday, `24th of August`, during our next **Open Code Chicago event**, we will work through this project together. It’s a great opportunity to get hands-on experience, collaborate with others, and learn best practices in web development.
+
+---
+
+## Issues
+
+If you encounter any problems or bugs, please report them by opening an issue in this repository. We appreciate your feedback and will work on resolving issues as soon as possible.
+
+### How to Report an Issue
+
+1. Go to the [Issues](https://github.com/OpenCodeChicago/ChicagoSliceHouse/issues) section of the repository.
+2. Click on **New Issue**.
+3. Provide a clear and detailed description of the problem.
+4. If possible, include screenshots or code snippets to help us understand the issue better.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [MIT License](LICENSE) file for details.
+
+---
+
+## Feedback
+
+We’re always looking to improve! If you have any suggestions, ideas, or enhancements that could benefit this project, please open an issue or contribute directly by making a pull request. Your feedback is invaluable to us.
+
+---
+
+## Contact
+
+For any questions, suggestions, or further discussion, feel free to reach out to us:
+
+- **Discord**: Join our community on [Open Code Chicago Discord Server](https://discord.gg/t6MGsCqdFX)
+- **Email**: Reach out via email at [Gmail](mailto:alexsmagin1@gmail.com)
+
