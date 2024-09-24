@@ -124,6 +124,9 @@ We’re always looking to improve! If you have any suggestions, ideas, or enhanc
 For any questions, suggestions, or further discussion, feel free to reach out to us:
 
 <div align="center">
+<a href="https://www.youtube.com/@AlexSmaginDev" target="_blank">
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/alex-smagin29" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
